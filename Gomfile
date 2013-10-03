@@ -1,0 +1,2 @@
+gom 'github.com/golang/groupcache'
+gom 'github.com/op/go-logging'
